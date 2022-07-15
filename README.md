@@ -35,3 +35,14 @@ Here is the help page, you will find below the list of all available commands as
 - `/poker` ➞ Play Poker in the Voice channel
 - `/betrayal` ➞ Play Betrayal in the Voice channel
 
+</details>
+
+## 🤖 Invite this bot
+
+<details>
+  
+</details>
+
+## 🤖 Website of the bot
+
+<details>
