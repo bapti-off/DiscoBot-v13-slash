@@ -35,4 +35,3 @@ Here is the help page, you will find below the list of all available commands as
 - `/poker` ➞ Play Poker in the Voice channel
 - `/betrayal` ➞ Play Betrayal in the Voice channel
 
-<a href="https://discord.gg/qKsmD2UP57"><img src="https://discord.com/api/guilds/843196286954111038/widget.png?style=banner2"></a>
