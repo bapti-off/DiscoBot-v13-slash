@@ -40,9 +40,26 @@ Here is the help page, you will find below the list of all available commands as
 ## 🤖 Invite this bot
 
 <details>
+  <summary>Click to expand</summary>
+  **NOTE:** It is suggested to use the [Sharded (&Clustered) version](https://github.com/Tomato6966/Multipurpose-discord-bot/tree/sharded_with_mongo), if you plan on using it for a VERIFIED BOT (on more then 2000 Servers!)
+ 
+  1. Download the [Source Code](https://github.com/Tomato6966/Multipurpose-discord-bot/releases/latest)
+     * Either by: `git clone https://github.com/Tomato6966/Multipurpose-discord-bot`
+     * Or by downloading it as a zip from the releases tab or a branch.
   
+</details>
+
 </details>
 
 ## 🤖 Website of the bot
 
 <details>
+
+    <summary>Click to expand</summary>
+  **NOTE:** It is suggested to use the [Sharded (&Clustered) version](https://github.com/Tomato6966/Multipurpose-discord-bot/tree/sharded_with_mongo), if you plan on using it for a VERIFIED BOT (on more then 2000 Servers!)
+ 
+  1. Download the [Source Code](https://github.com/Tomato6966/Multipurpose-discord-bot/releases/latest)
+     * Either by: `git clone https://github.com/Tomato6966/Multipurpose-discord-bot`
+     * Or by downloading it as a zip from the releases tab or a branch.
+  
+</details>
