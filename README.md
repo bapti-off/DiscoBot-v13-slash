@@ -1,5 +1,5 @@
-# DiscoBot-v13-slash
-> Play high quality music in your Discord server for free, 247 music, DJ and many more! Support Youtube, Spotify and more!
+<h1 align="center"><img src="./assets/logo.gif" width="30px"> DiscoBot {Engin} <img src="./assets/logo.gif" width="30px"></h1>
+<p align="center">Thanks for 25k Views with 500 subs!</p>
 
 ```
 Disco Bot is a music bot made entirely of slash commands and it is very fast and very secure
@@ -34,5 +34,3 @@ Here is the help page, you will find below the list of all available commands as
 - `/chess` ➞ Play Chess in the Voice channel
 - `/poker` ➞ Play Poker in the Voice channel
 - `/betrayal` ➞ Play Betrayal in the Voice channel
-
-[![Discord Bots](https://top.gg/api/widget/996082379875680398.svg)(https://top.gg/bot/996082379875680398)
