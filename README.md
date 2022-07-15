@@ -35,25 +35,14 @@ Here is the help page, you will find below the list of all available commands as
 - `/poker` ➞ Play Poker in the Voice channel
 - `/betrayal` ➞ Play Betrayal in the Voice channel
 
-</details>
-
 ## 🤖 Invite this bot
 
-<details>
-  <summary>Click to expand</summary>
    [Click on me for invite this bot](https://discord.com/oauth2/authorize?client_id=996082379875680398&permissions=3147776&redirect_uri=https%3A%2F%2Fdisco-bot.com%2F&response_type=code&scope=bot%20applications.commands%20connections) 
-  
-</details>
 
 ## 🤖 Website of the bot
 
-<details>
+  [Click on me for visit the website](https://disco-bot.com/) 
 
-    <summary>Click to expand</summary>
-  **NOTE:** It is suggested to use the [Sharded (&Clustered) version](https://github.com/Tomato6966/Multipurpose-discord-bot/tree/sharded_with_mongo), if you plan on using it for a VERIFIED BOT (on more then 2000 Servers!)
- 
-  1. Download the [Source Code](https://github.com/Tomato6966/Multipurpose-discord-bot/releases/latest)
-     * Either by: `git clone https://github.com/Tomato6966/Multipurpose-discord-bot`
-     * Or by downloading it as a zip from the releases tab or a branch.
-  
-</details>
+## 🤖 Vote for the bot
+
+  [Click on me for vote](https://top.gg/bot/996082379875680398/vote)
