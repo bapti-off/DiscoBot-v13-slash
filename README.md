@@ -34,3 +34,5 @@ Here is the help page, you will find below the list of all available commands as
 - `/chess` ➞ Play Chess in the Voice channel
 - `/poker` ➞ Play Poker in the Voice channel
 - `/betrayal` ➞ Play Betrayal in the Voice channel
+
+[![Discord Bots](https://top.gg/api/widget/996082379875680398.svg)(https://top.gg/bot/996082379875680398)
