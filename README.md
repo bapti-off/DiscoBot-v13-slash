@@ -41,7 +41,7 @@ Here is the help page, you will find below the list of all available commands as
 
 <details>
   <summary>Click to expand</summary>
-  ** [Click on me for invite this bot](https://discord.com/oauth2/authorize?client_id=996082379875680398&permissions=3147776&redirect_uri=https%3A%2F%2Fdisco-bot.com%2F&response_type=code&scope=bot%20applications.commands%20connections) **
+   [Click on me for invite this bot](https://discord.com/oauth2/authorize?client_id=996082379875680398&permissions=3147776&redirect_uri=https%3A%2F%2Fdisco-bot.com%2F&response_type=code&scope=bot%20applications.commands%20connections) 
   
 </details>
 
