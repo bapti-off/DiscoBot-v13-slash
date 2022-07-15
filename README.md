@@ -34,3 +34,5 @@ Here is the help page, you will find below the list of all available commands as
 - `/chess` ➞ Play Chess in the Voice channel
 - `/poker` ➞ Play Poker in the Voice channel
 - `/betrayal` ➞ Play Betrayal in the Voice channel
+
+<a href="https://discord.gg/dcdev"><img src="https://discord.com/api/guilds/843196286954111038/widget.png?style=banner2"></a>
