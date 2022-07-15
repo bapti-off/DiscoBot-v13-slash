@@ -7,7 +7,18 @@ Disco Bot is a music bot made entirely of slash commands and it is very fast and
 ```
 Here is the help page, you will find below the list of all available commands as well as their description
 ```
-[Click on me for invite this bot](https://discord.com/oauth2/authorize?client_id=996082379875680398&permissions=3147776&redirect_uri=https%3A%2F%2Fdisco-bot.com%2F&response_type=code&scope=bot%20applications.commands%20connections)
+## 🤖 Invite this bot
+
+   [Click on me for invite this bot](https://discord.com/oauth2/authorize?client_id=996082379875680398&permissions=3147776&redirect_uri=https%3A%2F%2Fdisco-bot.com%2F&response_type=code&scope=bot%20applications.commands%20connections) 
+
+## 🌐 Website of the bot
+
+  [Click on me for visit the website](https://disco-bot.com/) 
+
+## 📥 Vote for the bot
+
+  [Click on me for vote](https://top.gg/bot/996082379875680398/vote)
+  
 ### :notes:・List of commands Music
 
 - `/play` ➞ Play a song
@@ -35,14 +46,4 @@ Here is the help page, you will find below the list of all available commands as
 - `/poker` ➞ Play Poker in the Voice channel
 - `/betrayal` ➞ Play Betrayal in the Voice channel
 
-## 🤖 Invite this bot
 
-   [Click on me for invite this bot](https://discord.com/oauth2/authorize?client_id=996082379875680398&permissions=3147776&redirect_uri=https%3A%2F%2Fdisco-bot.com%2F&response_type=code&scope=bot%20applications.commands%20connections) 
-
-## 🤖 Website of the bot
-
-  [Click on me for visit the website](https://disco-bot.com/) 
-
-## 🤖 Vote for the bot
-
-  [Click on me for vote](https://top.gg/bot/996082379875680398/vote)
